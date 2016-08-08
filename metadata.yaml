@@ -1,0 +1,31 @@
+_repo: Sappho--One-Hundred-Lyrics_12389
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Carman, Bliss
+    alias: Carman, William Bliss
+    birthdate: 1861
+    deathdate: 1929
+    gutenberg_agent_id: '4343'
+    url: http://www.gutenberg.org/2009/agents/4343
+    wikipedia: http://en.wikipedia.org/wiki/Bliss_Carman
+description: ''
+gutenberg_bookshelf:
+- Classical Antiquity
+- Poetry
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12389'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women poets -- Poetry'
+- !lcsh 'Women -- Greece -- Poetry'
+- !lcc 'PR'
+- !lcsh 'Sappho -- Poetry'
+- GITenberg
+title: 'Sappho: One Hundred Lyrics'
+url: http://www.gutenberg.org/ebooks/12389
